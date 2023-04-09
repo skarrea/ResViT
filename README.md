@@ -14,6 +14,10 @@ torchvision>=0.8.2
 visdom
 dominate
 cuda=>11.2
+h5py
+ml_collection
+scipy>=1.3.0
+scikit-image
 ```
 ## Installation
 - Clone this repo:
